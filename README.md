@@ -14,7 +14,7 @@ A quick explanation of each layer:
 
 ![MVC](https://upload.wikimedia.org/wikipedia/commons/a/a0/MVC-Process.svg)
 
-## Requiriments
+## Requirements
 
 * PHP >= 7.1
 * apache with Rewrite mode enabled
